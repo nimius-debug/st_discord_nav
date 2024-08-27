@@ -1,0 +1,9 @@
+venv
+streamlit_discord_nav.egg-info
+__pytcache__
+*.pyc
+*.pyo
+*.pyd
+build
+dist
+node_modules
