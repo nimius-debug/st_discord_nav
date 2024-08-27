@@ -10,7 +10,7 @@ setuptools.setup(
     version="2.1.0",
     author="Jorge Gil",
     author_email="jorgegil9706@gmail.com",
-    description="Streamlit component that allows you to do X",
+    description="Streamlit component that allows you to do navigation in your Streamlit app inspired by Discord.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",
